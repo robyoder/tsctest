@@ -1,4 +1,1 @@
-export interface ThingA {
-	name: string;
-	description: string;
-}
+export interface ThingA { }

@@ -1,4 +1,1 @@
-export interface ThingB {
-	name: string;
-	title: string;
-}
+export interface ThingB { }
